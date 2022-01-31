@@ -1,0 +1,67 @@
+#landingPage {
+    background-image:url(/images/wioleta-zakrzewska-BZUo9Tf83HQ-unsplash.jpg);
+    object-fit: fill;
+}
+
+.arrow {
+    display: flex;
+    margin-top: 13px;
+    padding-left: -5px;
+}
+
+.navbar-brand {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 500px;
+    font-size: 40px;
+    margin-left: 30px;
+}
+
+.nav-about {
+    float: left;
+}
+
+h2 {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+
+.about {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: lighter;
+    margin-top: 20px;
+    font-size: 40px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.info {
+    margin: 20px;
+    background-color: rgb(243, 214, 170);
+    padding: 50px;
+}
+
+.aboutOne {
+    flex-wrap: wrap;
+    padding-left: 80px;
+}
+
+.photoOne {
+    float: left;
+}
+
+.aboutTwo {
+    flex-wrap: wrap;
+    margin-right: 80px;
+}
+
+.photoTwo {
+    float: right;
+    position: relative;
+}
